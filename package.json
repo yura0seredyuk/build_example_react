@@ -1,5 +1,6 @@
 {
   "name": "build_example_react",
+  "homepage": "https://yura0seredyuk.github.io/build_example_react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
